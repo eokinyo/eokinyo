@@ -1,8 +1,8 @@
 # Elly Okinyo
 
-Economist, researcher and data analyst based in Helsinki. I work on development, macroeconomics and labour markets, with a focus on time series, forecasting and reproducible analysis in R, Stata and Python. I care about getting the method right and then explaining it plainly.
+Economist, researcher and data analyst based in Helsinki. Work centres on development, macroeconomics and labour markets, with a focus on time series, forecasting and reproducible analysis in R, Stata and Python: getting the method right, then explaining it plainly.
 
-I write about economics and economic policy, from Kenya to Finland, at [ellyokinyo.com](https://ellyokinyo.com). Each data article comes with public code that reproduces its numbers and charts.
+Writing on economics and economic policy, from Kenya to Finland, at [ellyokinyo.com](https://ellyokinyo.com). Each data article comes with public code that reproduces its numbers and charts.
 
 ## Selected work
 
